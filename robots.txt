@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miluchinopro.github.io/sitemap.xml
+Sitemap: https://miluchinopro.github.io/Fawiwe-F1/sitemap.xml
